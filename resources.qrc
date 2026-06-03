@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/icons/app.ico</file>
+        <file>resources/icons/open.png</file>
+        <file>resources/icons/open_dir.png</file>
+        <file>resources/icons/save.png</file>
+        <file>resources/icons/rotate_cw.png</file>
+        <file>resources/icons/rotate_ccw.png</file>
+        <file>resources/icons/grayscale.png</file>
+        <file>resources/icons/invert.png</file>
+        <file>resources/icons/threshold.png</file>
+    </qresource>
+</RCC>
