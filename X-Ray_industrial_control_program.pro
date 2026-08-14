@@ -79,8 +79,7 @@ SOURCES += \
         xraycontroltab.cpp \
         visualizationtab.cpp \
         logmanager.cpp \
-        opcclientmanager.cpp \
-    ct_module_test.cpp
+        opcclientmanager.cpp
 
 HEADERS += \
         mainwindow.h \
@@ -93,8 +92,7 @@ HEADERS += \
         xraycontroltab.h \
         visualizationtab.h \
         logmanager.h \
-        opcclientmanager.h \
-    ct_module_test.h
+        opcclientmanager.h
 
 FORMS += \
         mainwindow.ui
